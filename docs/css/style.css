@@ -5,5 +5,12 @@
    transition: 0.5s;
 }
 
-.parallax-window {
+.button-ofer {
+    background-color: #1a0bde !important;
+    border: 1px solid #1a0bde;
+    border-radius: 3px;
+}
+
+.button-item {
+    color: #ffffff;
 }
