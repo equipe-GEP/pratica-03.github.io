@@ -22,6 +22,8 @@
 
 .tm-gallery-title {
     color: #1a0bde !important;
+    border-bottom: 1px solid #1a0bde;
+    text-align: center;
 }
 
 .tm-gallery-price {
@@ -39,7 +41,31 @@
 }
 
 .tm-gallery-img {
+    border-radius: 50%;
+}
+
+.tm-text-success {
+    color: #1a0bde;
+}
+
+.tm-btn-success {
+    background-color: #1a0bde;
+    width: 100%;
     border-radius: 10px;
+}
+
+.tm-btn-success:hover {
+    background-color: #ffffff;
+    border: 1px solid #1a0bde;
+    color: #1a0bde;
+}
+
+.tm-contact-icon {
+    color: #1a0bde;
+}
+
+.tm-contact-social {
+    text-align: ;
 }
 
 .footer {
