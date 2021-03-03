@@ -8,6 +8,12 @@
 .button-ofer {
     background-color: #1a0bde !important;
     border: 1px solid #1a0bde;
+    border-radius: 8px;
+}
+
+.active {
+    transition: 0.1s;
+    border-radius: 8px;
 }
 
 .button-item {
@@ -34,4 +40,8 @@
 
 .tm-gallery-img {
     border-radius: 10px;
+}
+
+.footer {
+    background-color: #ccc !important;
 }
