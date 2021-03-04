@@ -68,6 +68,33 @@
     text-align: ;
 }
 
+.tm-contact-link:hover {
+    border-bottom: 1px solid #1a0bde;
+}
+
+.tm-person-img {
+    border-radius: 50%;
+}
+
+.tm-person-name, .tm-history-title {
+    color: #1a0bde !important;
+}
+
+.tm-person-title {
+    color: #1a0bde !important;
+    border-bottom: 1px solid #1a0bde;
+}
+
+.tm-social-icon {
+    background-color: #ffffff; 
+    color: #1a0bde;
+}
+
+.tm-social-icon:hover {
+    border-top: 1px solid #1a0bde;
+    border-bottom: 1px solid #1a0bde;
+}
+
 .footer {
     background-color: #ccc !important;
 }
