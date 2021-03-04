@@ -1,0 +1,100 @@
+.button-menu:hover {
+   background-color: #1a0bde;
+   border-radius: 5px;
+   padding: 8px;
+   transition: 0.5s;
+}
+
+.button-ofer {
+    background-color: #1a0bde !important;
+    border: 1px solid #1a0bde;
+    border-radius: 8px;
+}
+
+.active {
+    transition: 0.1s;
+    border-radius: 8px;
+}
+
+.button-item {
+    color: #ffffff;
+}
+
+.tm-gallery-title {
+    color: #1a0bde !important;
+    border-bottom: 1px solid #1a0bde;
+    text-align: center;
+}
+
+.tm-gallery-price {
+    padding: 10px;
+    background-color: #1a0bde;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.tm-gallery-price:hover {
+    background-color: #ffffff;
+    color: #1a0bde;
+    border: 1px solid #1a0bde;
+}
+
+.tm-gallery-img {
+    border-radius: 50%;
+}
+
+.tm-text-success {
+    color: #1a0bde;
+}
+
+.tm-btn-success {
+    background-color: #1a0bde;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.tm-btn-success:hover {
+    background-color: #ffffff;
+    border: 1px solid #1a0bde;
+    color: #1a0bde;
+}
+
+.tm-contact-icon {
+    color: #1a0bde;
+}
+
+.tm-contact-social {
+    text-align: ;
+}
+
+.tm-contact-link:hover {
+    border-bottom: 1px solid #1a0bde;
+}
+
+.tm-person-img {
+    border-radius: 50%;
+}
+
+.tm-person-name, .tm-history-title {
+    color: #1a0bde !important;
+}
+
+.tm-person-title {
+    color: #1a0bde !important;
+    border-bottom: 1px solid #1a0bde;
+}
+
+.tm-social-icon {
+    background-color: #ffffff; 
+    color: #1a0bde;
+}
+
+.tm-social-icon:hover {
+    border-top: 1px solid #1a0bde;
+    border-bottom: 1px solid #1a0bde;
+}
+
+.footer {
+    background-color: #ccc !important;
+}
