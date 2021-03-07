@@ -65,7 +65,7 @@
 }
 
 .tm-contact-social {
-    text-align: ;
+    text-align: center;
 }
 
 .tm-contact-link:hover {
@@ -97,4 +97,13 @@
 
 .footer {
     background-color: #ccc !important;
+}
+
+.text-justify, .tm-gallery-description {
+    text-align: justify !important;
+}
+
+.tm-gallery-img img {
+    width: 395px !important;
+    height: 395px !important;
 }
