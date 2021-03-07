@@ -98,3 +98,7 @@
 .footer {
     background-color: #ccc !important;
 }
+
+.text-justify {
+    text-align: justify !important;
+}
