@@ -112,6 +112,6 @@
     text-align: justify;
 }
 
-.tm-history-title {
+.tm-history-title, .tm-person-name, .tm-person-title {
     text-align: center;
 }
